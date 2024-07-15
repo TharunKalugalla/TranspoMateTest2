@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "698419940039",
+    "firebase_url": "https://transpomatebustest1-353e1-default-rtdb.firebaseio.com",
+    "project_id": "transpomatebustest1-353e1",
+    "storage_bucket": "transpomatebustest1-353e1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:698419940039:android:4562854db6cf9ed2a3cce2",
+        "android_client_info": {
+          "package_name": "com.example.tmt1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAx1pCa8q9BCQfEEkbiNe0ZBq2ee0eHSKo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:698419940039:android:fdf708a86c15194ea3cce2",
+        "android_client_info": {
+          "package_name": "com.example.transpomatetest1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAx1pCa8q9BCQfEEkbiNe0ZBq2ee0eHSKo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:698419940039:android:6fdf7f2c52d03c38a3cce2",
+        "android_client_info": {
+          "package_name": "com.example.transpomatetest2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAx1pCa8q9BCQfEEkbiNe0ZBq2ee0eHSKo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
