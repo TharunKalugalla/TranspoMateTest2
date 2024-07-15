@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">TranspoMateTest2</string>
+    <string name="select_route_prompt">Select a Route</string>
 </resources>
