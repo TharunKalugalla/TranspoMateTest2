@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">TranspoMateTest2</string>
     <string name="select_route_prompt">Select a Route</string>
+    <string name="MAPS_API_KEY">AIzaSyAoMQGYDw2zZz5W90UeqNfetmHpgtxQYuY</string>
 </resources>
