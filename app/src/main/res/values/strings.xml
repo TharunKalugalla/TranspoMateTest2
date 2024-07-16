@@ -1,5 +1,13 @@
 <resources>
     <string name="app_name">TranspoMateTest2</string>
     <string name="select_route_prompt">Select a Route</string>
+    <string-array name="routes_array">
+        <item>Route 1</item>
+        <item>Route 2</item>
+        <item>Route 3</item>
+        <!-- Add more routes as needed -->
+    </string-array>
+    <string name="select_route">Select Route</string>
+    <string name="select_bus">Select Bus</string>
     <string name="MAPS_API_KEY">AIzaSyAoMQGYDw2zZz5W90UeqNfetmHpgtxQYuY</string>
 </resources>
